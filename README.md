@@ -10,33 +10,30 @@
 I am a passionate **Web & Mobile Web Developer** with a deep love for Computer Science. 
 I enjoy building web applications and exploring the endless possibilities of software development.
 
-</div>
+---
 
 ### 🎓 Academic Projects (Training 2026)
-* [**AO-Chifoumi**](https://github.com/Alloudev/AO-chifoumi) – A Rock-Paper-Scissors game featuring a smart "Sensei" opponent.
-* [**AO-PlusOuMoins**](https://github.com/Alloudev/AO-plusOUmoins) – A logic game focused on state management.
-* [**Dicegame**](https://github.com/Alloudev/Dicegame) 🚧 – A dynamic turn-based dice game. *WIP.*
+
+[**AO-Chifoumi**](https://github.com/Alloudev/AO-chifoumi) • [**AO-PlusOuMoins**](https://github.com/Alloudev/AO-plusOUmoins) • [**Dicegame**](https://github.com/Alloudev/Dicegame) 🚧
 
 ---
 
 ### 🛠️ Tech Stack
-<p align="left">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" height="35" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" height="35" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" height="35" />
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" height="35" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" height="35" />
-</p>
+
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" height="35" /> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" height="35" /> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" height="35" /> <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" height="35" /> <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" height="35" />
 
 ---
 
 ### 📈 Connect with me
-<p align="left">
-<a href="https://www.linkedin.com/in/TON-NOM-UTILISATEUR/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="35" /></a>
-</p>
+
+<a href="https://www.linkedin.com/in/TON-NOM-UTILISATEUR/">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="35" />
+</a>
 
 <br />
+<br />
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alloudev&layout=compact&theme=vision-friendly-dark&hide_border=true" width="400" />
+### 🏆 Achievements
+<img src="https://github-profile-trophy.vercel.app/?username=Alloudev&theme=dracula&no-frame=true&column=3" alt="GitHub Trophies" />
+
 </div>
