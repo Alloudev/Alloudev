@@ -14,7 +14,7 @@ I enjoy building web applications and exploring the endless possibilities of sof
 
 ### 🎓 Academic Projects (Training 2026)
 
-[**AO-Chifoumi**](https://github.com/Alloudev/AO-chifoumi) • [**AO-PlusOuMoins**](https://github.com/Alloudev/AO-plusOUmoins) • [**Dicegame**](https://github.com/Alloudev/Dicegame) 🚧
+[**AO-Chifoumi**](https://github.com/Alloudev/AO-chifoumi) • [**AO-PlusOuMoins**](https://github.com/Alloudev/AO-plusOUmoins) • [**Dicegame**](https://github.com/Alloudev/AO-diceGame) 🚧
 
 ---
 
