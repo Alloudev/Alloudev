@@ -1,6 +1,5 @@
 <div align="center">
 
-# 01001000 01100101 01101100 01101100 01101111 00100000 01010111 01101111 01110010 01101100 01100100 
 # Hello World! 👋
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=4479A1&center=true&vCenter=true&width=435&lines=Web+%26+Mobile+Web+Developer;Computer+Science+Enthusiast;Full-stack+Explorer" alt="Typing SVG" />
