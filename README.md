@@ -33,7 +33,8 @@ I enjoy building web applications and exploring the endless possibilities of sof
 <br />
 <br />
 
-### 🏆 Achievements
-<img src="https://github-profile-trophy.vercel.app/?username=Alloudev&theme=dracula&no-frame=true&column=3" alt="GitHub Trophies" />
+### 📊 GitHub Activity
+![Alloudev's GitHub activity chart](https://img.shields.io/badge/Dynamic_Activity-Loading-blue?style=flat-square&logo=github)
+*(Building more projects to show detailed stats!)*
 
 </div>
