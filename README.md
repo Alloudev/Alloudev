@@ -1,29 +1,41 @@
-# Hi there, I'm Alloudev! 👋
+<div align="center">
 
-I am a passionate **Web & Mobile Web Developer** with a deep love for Computer Science and coding in general. I enjoy building web applications and exploring the endless possibilities of software development.
+# 01001000 01100101 01101100 01101100 01101111 00100000 01010111 01101111 01110010 01101100 01100100 
+# Hello World! 👋
+
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=4479A1&center=true&vCenter=true&width=435&lines=Web+%26+Mobile+Web+Developer;Computer+Science+Enthusiast;Full-stack+Explorer)
 
 ---
+
+I am a passionate **Web & Mobile Web Developer** with a deep love for Computer Science. 
+I enjoy building web applications and exploring the endless possibilities of software development.
+
+</div>
 
 ### 🎓 Academic Projects (Training 2026)
-*These projects were developed as part of my official curriculum to master core development concepts.*
-
-* [**AO-Chifoumi**](https://github.com/Alloudev/AO-chifoumi) – A Rock-Paper-Scissors game featuring a smart "Sensei" opponent. Built with Vanilla JS.
-* [**AO-PlusOuMoins**](https://github.com/Alloudev/AO-plusOUmoins) – A "Higher or Lower" logic game focused on state management and user input validation.
-* [**Dicegame**](https://github.com/Alloudev/Dicegame) 🚧 – A dynamic turn-based dice game for two players. *Currently under active development.*
-
----
-
-### 🚀 Personal Lab
-*Experimental projects and side-tasks where I explore new libraries and frameworks.*
-
-* *Coming soon...*
+* [**AO-Chifoumi**](https://github.com/Alloudev/AO-chifoumi) – A Rock-Paper-Scissors game featuring a smart "Sensei" opponent.
+* [**AO-PlusOuMoins**](https://github.com/Alloudev/AO-plusOUmoins) – A logic game focused on state management.
+* [**Dicegame**](https://github.com/Alloudev/Dicegame) 🚧 – A dynamic turn-based dice game. *WIP.*
 
 ---
 
 ### 🛠️ Tech Stack
-![HTML5](https://custom-icon-badges.demolab.com/badge/HTML5-E34F26?logo=html5&logoColor=white) ![CSS3](https://custom-icon-badges.demolab.com/badge/CSS3-1572B6?logo=css3&logoColor=white) ![JavaScript](https://custom-icon-badges.demolab.com/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black) ![PHP](https://custom-icon-badges.demolab.com/badge/PHP-777BB4?logo=php-white&logoColor=white) ![SQL](https://custom-icon-badges.demolab.com/badge/SQL-4479A1?logo=database&logoColor=white)
+<p align="left">
+  <img src="https://custom-icon-badges.demolab.com/badge/HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge" />
+  <img src="https://custom-icon-badges.demolab.com/badge/CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge" />
+  <img src="https://custom-icon-badges.demolab.com/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge" />
+  <img src="https://custom-icon-badges.demolab.com/badge/PHP-777BB4?logo=php-white&logoColor=white&style=for-the-badge" />
+  <img src="https://custom-icon-badges.demolab.com/badge/SQL-4479A1?logo=database&logoColor=white&style=for-the-badge" />
+</p>
 
 ---
 
-### 📈 Find Me On
-[![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=white)](https://www.linkedin.com/in/allan-oudin-b03241388/)
+### 📈 Connect with me
+<p align="left">
+<a href="https://www.linkedin.com/in/TON-NOM-UTILISATEUR/"><img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=white&style=for-the-badge" /></a>
+</p>
+
+<br />
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alloudev&layout=compact&theme=vision-friendly-dark" alt="Top Langs" />
+</div>
