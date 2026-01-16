@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hello World! 👋
+# Hello World!
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=4479A1&center=true&vCenter=true&width=435&lines=Web+%26+Mobile+Web+Developer;Computer+Science+Enthusiast;Full-stack+Explorer" alt="Typing SVG" />
 
@@ -25,10 +25,10 @@ I enjoy building web applications and exploring the endless possibilities of sof
 ### 📈 Connect with me
 [![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=white)](https://www.linkedin.com/in/allan-oudin-b03241388/)
 
-<br />
-<br />
+---
 
 ### 🐍 Contribution Journey
-*Check out my activity below to see my daily coding progress!*
+
+[![Alloudev's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Alloudev&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
