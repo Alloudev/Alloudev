@@ -17,7 +17,8 @@ I enjoy building web applications and exploring the endless possibilities of sof
 <br>
 
 [![Chifoumi](https://img.shields.io/badge/🎮%20Chifoumi-2A2A2A?style=flat&logo=github&logoColor=white)](https://github.com/Alloudev/AO-chifoumi)
-[![PlusOuMoins](https://img.shields.io/badge/🧠%20PlusOuMoins-2A2A2A?style=flat&logo=github&logoColor=white)](https://github.com/Alloudev/AO-plusOUmoins)
+[![PlusOuMoins](https://img.shields.io/badge/🧠%20Plus%20ou%20Moins-2A2A2A?style=flat&logo=github&logoColor=white)](https://github.com/Alloudev/AO-plusOUmoins)
+[![JS-Form](https://img.shields.io/badge/📝%20JS%20Form-2A2A2A?style=flat&logo=github&logoColor=white)](https://github.com/keyember/js-form)
 <br>
 <br>
 ![WIP](https://img.shields.io/badge/🚧%20WIP-B11226?style=for-the-badge&logoColor=white)
