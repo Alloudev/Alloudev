@@ -1,6 +1,5 @@
-<p align="center">
+<div align="center">
   <img src="https://raw.githubusercontent.com/keyember/assets/8fab624b7902ed0d02db110251ca07e7f03c5dc0/H1%20Keyember.svg" alt="Typing intro" />
-</p>
 
 ---
 
@@ -39,5 +38,4 @@ I enjoy building web applications and exploring the endless possibilities of sof
 ### 🐍 Contribution Journey
 
 ![Keyember's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=keyember&theme=dracula&bg_color=8710100&line=cc1414&point=6e0a0a&days=40)
-
 </div>
