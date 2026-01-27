@@ -30,7 +30,7 @@ I enjoy building web applications and exploring the endless possibilities of sof
 ![ACTIVE](https://img.shields.io/badge/🌟%20ACTIVE-1F3A93?style=for-the-badge&logoColor=white)
 <br>
 
-[![No active projects](https://img.shields.io/badge/💼%20No%20Active%20Projects-2A2A2A?style=flat&logo=github&logoColor=white)]
+![No active projects](https://img.shields.io/badge/💼%20No%20Active%20Projects-2A2A2A?style=flat&logo=github&logoColor=white)
 <br>
 <br>
 ![PLANNED](https://img.shields.io/badge/🧪%20PLANNED-6C3483?style=for-the-badge&logoColor=white)
@@ -42,7 +42,7 @@ I enjoy building web applications and exploring the endless possibilities of sof
 ![WIP](https://img.shields.io/badge/🚧%20WIP-B11226?style=for-the-badge&logoColor=white)
 <br>
 
-[![No WIP projects](https://img.shields.io/badge/💼%20No%20WIP%20Projects-2A2A2A?style=flat&logo=github&logoColor=white)]
+![No WIP projects](https://img.shields.io/badge/💼%20No%20WIP%20Projects-2A2A2A?style=flat&logo=github&logoColor=white)
 
 ---
 
