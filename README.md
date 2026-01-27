@@ -25,6 +25,27 @@ I enjoy building web applications and exploring the endless possibilities of sof
 
 ---
 
+### 🚀 Personal Projects
+
+![ACTIVE](https://img.shields.io/badge/🌟%20ACTIVE-1F3A93?style=for-the-badge&logoColor=white)
+<br>
+
+[![No active projects](https://img.shields.io/badge/💼%20No%20Active%20Projects-2A2A2A?style=flat&logo=github&logoColor=white)]
+<br>
+<br>
+![PLANNED](https://img.shields.io/badge/🧪%20PLANNED-6C3483?style=for-the-badge&logoColor=white)
+<br>
+
+[![One Piece Textual Game](https://img.shields.io/badge/🧩%20One%20Piece%20Textual%20Game-2A2A2A?style=flat&logo=github&logoColor=white)](https://github.com/keyember)
+<br>
+<br>
+![WIP](https://img.shields.io/badge/🚧%20WIP-B11226?style=for-the-badge&logoColor=white)
+<br>
+
+[![No WIP projects](https://img.shields.io/badge/💼%20No%20WIP%20Projects-2A2A2A?style=flat&logo=github&logoColor=white)]
+
+---
+
 ### 🛠️ Tech Stack
 ![HTML5](https://custom-icon-badges.demolab.com/badge/HTML5-E34F26?logo=html5&logoColor=white) ![CSS3](https://custom-icon-badges.demolab.com/badge/CSS3-1572B6?logo=css3&logoColor=white) ![JavaScript](https://custom-icon-badges.demolab.com/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black) ![PHP](https://custom-icon-badges.demolab.com/badge/PHP-777BB4?logo=php-white&logoColor=white) ![SQL](https://custom-icon-badges.demolab.com/badge/SQL-4479A1?logo=database&logoColor=white)
 
