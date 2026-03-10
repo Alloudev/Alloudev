@@ -33,7 +33,7 @@ I enjoy building web applications and exploring the endless possibilities of sof
 ![ACTIVE](https://img.shields.io/badge/🌟%20ACTIVE-1F3A93?style=for-the-badge&logoColor=white)
 <br>
 
-![No active projects](https://img.shields.io/badge/💼%20No%20Active%20Projects-2A2A2A?style=flat&logo=github&logoColor=white)
+[![Pokedex National FR](https://img.shields.io/badge/🎮%20Pokedex%20National%20FR-2A2A2A?style=flat&logo=github&logoColor=white)](https://github.com/keyember/national-pokedex)
 <br>
 <br>
 ![PLANNED](https://img.shields.io/badge/🧪%20PLANNED-6C3483?style=for-the-badge&logoColor=white)
