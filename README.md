@@ -33,7 +33,8 @@ I enjoy building web applications and exploring the endless possibilities of sof
 ![ACTIVE](https://img.shields.io/badge/🌟%20ACTIVE-1F3A93?style=for-the-badge&logoColor=white)
 <br>
 
-[![Pokedex National FR](https://img.shields.io/badge/🎮%20Pokedex%20National%20FR-2A2A2A?style=flat&logo=github&logoColor=white)](https://github.com/keyember/national-pokedex)
+[![Pokedex National FR](https://img.shields.io/badge/🎴%20Pokedex%20National%20FR-2A2A2A?style=flat&logo=github&logoColor=white)](https://github.com/keyember/national-pokedex)
+[![Punk Records Devil Fruits](https://img.shields.io/badge/📟%20Punk%20Records%20Devil%20Fruits-2A2A2A?style=flat&logo=github&logoColor=white)](https://github.com/keyember/devil-fruits-punk_records/)
 <br>
 <br>
 ![PLANNED](https://img.shields.io/badge/🧪%20PLANNED-6C3483?style=for-the-badge&logoColor=white)
